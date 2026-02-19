@@ -1,1 +1,3 @@
-# next-cli-tool-fkx8
+# Next Cli Tool Fkx8
+
+Automated issue comment bot repository.
